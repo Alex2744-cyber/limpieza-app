@@ -10,7 +10,13 @@ import { getStorage } from 'firebase/storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-
+  apiKey: "AIzaSyBfoyOdbNdsVk3EKHQL3sHR85SIzR7aOEQ",
+  authDomain: "limpieza-app.firebaseapp.com",
+  projectId: "limpieza-app",
+  storageBucket: "limpieza-app.firebasestorage.app",
+  messagingSenderId: "477178327780",
+  appId: "1:477178327780:web:40cbafa4f6eee150bb32f1",
+  measurementId: "G-PJ78ZTXS3T"
 };
 
 // Initialize Firebase
